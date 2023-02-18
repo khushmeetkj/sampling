@@ -15,6 +15,7 @@ The various ML models that we'll be using are:
   5. Naive Bayes
   
 #Steps
+
 Step 1: Balance the imbalance dataset
 Step 2: Apply the sampling technique to get the sample
 Step 3: Split the sample into training set and testing set
@@ -25,6 +26,7 @@ Step 7: Repeat step 2,3,4,5 and 6 for all 4 samplings techniques
 Step 8: Represent accuracy of various models and sampling techniques in form of dataframe.
 
 #Conclusion
+
 We conclude that for:
     1. SVM: Cluter sample gives the best accuracy in this case
     2. Logistic Regression: Random sampling gives the best accuracy in this case
