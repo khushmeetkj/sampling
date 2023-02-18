@@ -14,5 +14,5 @@ The various ML models that we'll be using are:
   4. KNN
   5. Naive Bayes
   
-##Steps
+#Steps
 Step 1: 
