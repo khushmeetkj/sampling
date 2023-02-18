@@ -16,7 +16,7 @@ The various ML models that we'll be using are:
   
 
 
-#Steps
+## Steps
 
 
 Step 1: Balance the imbalance dataset
@@ -37,7 +37,7 @@ Step 8: Represent accuracy of various models and sampling techniques in form of 
 
 
 
-#Conclusion
+## Conclusion
 
 
 We conclude that for:
