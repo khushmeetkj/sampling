@@ -41,6 +41,7 @@ Step 8: Represent accuracy of various models and sampling techniques in form of 
 
 
 We conclude that for:
+
     1. SVM: Cluter sample gives the best accuracy in this case
     2. Logistic Regression: Random sampling gives the best accuracy in this case
     3. Decision Tree: Systemic and cluster sampling gives the best accuracy in this case
@@ -48,6 +49,7 @@ We conclude that for:
     5. Naive Bayes: Cluster sampling gives the best accuracy in this case
         
 Furthermore, we can conclude that if we choose:
+
     1. Random Sampling: Logistic Regression will give us results with most accuracy in this case
     2. Systematic Sampling: Decision Tree will give us results with most accuracy in this case
     3. Stratified Sampling: KNN and Decision Tree will give us results with most accuracy in this case
