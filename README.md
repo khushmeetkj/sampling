@@ -36,11 +36,6 @@ Step 7: Repeat step 2,3,4,5 and 6 for all 4 samplings techniques
 Step 8: Represent accuracy of various models and sampling techniques in form of dataframe.
 
 
-## Output
-
-<img width="469" alt="Screenshot 2023-02-20 at 7 49 27 AM" src="https://user-images.githubusercontent.com/100368906/219994978-175febaf-43f9-4749-8efe-a07ebe750d7b.png">
-
-
 ## Conclusion
 
 
